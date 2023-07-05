@@ -1,0 +1,164 @@
+{
+  "artists": [
+        {
+            "id": 1723077585,
+            "name": "Jaydon Ekstrom Bothman",
+            "username": "Jaydon",
+            "volumn": "12.4 ETH",
+            "sold": "602",
+            "avatar": "https://cdn.animaapp.com/projects/63aaf7e2426e9824f0350c11/releases/63aaf8f2426e9824f0350c13/img/avatar-placeholder-98@2x.png"
+        },
+        {
+            "id": 1933029628,
+            "name": "Ruben Carder",
+            "username": "Ruben",
+            "volumn": "12.4 ETH",
+            "sold": "602",
+            "avatar": "https://cdn.animaapp.com/projects/63aaf7e2426e9824f0350c11/releases/63aaf8f2426e9824f0350c13/img/avatar-placeholder-6@2x.png"
+        },
+        {
+            "id": 7216307192,
+            "name": "Alfredo Septimus",
+            "username": "Alfredo",
+            "volumn": "12.4 ETH",
+            "sold": "602",
+            "avatar": "https://cdn.animaapp.com/projects/63aaf7e2426e9824f0350c11/releases/63aaf8f2426e9824f0350c13/img/avatar-placeholder-7@2x.png"
+        },
+        {
+            "id": 6577695719,
+            "name": "Davis Franci",
+            "username": "Davis",
+            "volumn": "12.4 ETH",
+            "sold": "602",
+            "avatar": "https://cdn.animaapp.com/projects/63aaf7e2426e9824f0350c11/releases/63aaf8f2426e9824f0350c13/img/avatar-placeholder-8@2x.png"
+        },
+        {
+            "id": 3300045116,
+            "name": "Livia Rosser",
+            "username": "Livia",
+            "volumn": "12.4 ETH",
+            "sold": "602",
+            "avatar": "https://cdn.animaapp.com/projects/63aaf7e2426e9824f0350c11/releases/63aaf8f2426e9824f0350c13/img/avatar-placeholder-9@2x.png"
+        },
+        {
+            "id": 8369514643,
+            "name": "Kianna Donin",
+            "username": "Kianna",
+            "volumn": "12.4 ETH",
+            "sold": "602",
+            "avatar": "https://cdn.animaapp.com/projects/63aaf7e2426e9824f0350c11/releases/63aaf8f2426e9824f0350c13/img/avatar-placeholder-16@2x.png"
+        },
+        {
+            "id": 4201933994,
+            "name": "Phillip Lipshutz",
+            "username": "Phillip",
+            "volumn": "12.4 ETH",
+            "sold": "602",
+            "avatar": "https://cdn.animaapp.com/projects/63aaf7e2426e9824f0350c11/releases/63aaf8f2426e9824f0350c13/img/avatar-placeholder-17@2x.png"
+        },
+        {
+            "id": 9159957880,
+            "name": "Maria Rosser",
+            "username": "Maria",
+            "volumn": "12.4 ETH",
+            "sold": "602",
+            "avatar": "https://cdn.animaapp.com/projects/63aaf7e2426e9824f0350c11/releases/63aaf8f2426e9824f0350c13/img/avatar-placeholder-126@2x.png"
+        },
+        {
+            "id": 971994217,
+            "name": "Kianna Stanton",
+            "username": "Kianna",
+            "volumn": "12.4 ETH",
+            "sold": "602",
+            "avatar": "https://cdn.animaapp.com/projects/63aaf7e2426e9824f0350c11/releases/63aaf8f2426e9824f0350c13/img/avatar-placeholder-127@2x.png"
+        },
+        {
+            "id": 7271207801,
+            "name": "Angel Lubin",
+            "username": "Angel",
+            "volumn": "12.4 ETH",
+            "sold": "602",
+            "avatar": "https://cdn.animaapp.com/projects/63aaf7e2426e9824f0350c11/releases/63aaf8f2426e9824f0350c13/img/avatar-placeholder-128@2x.png"
+        },
+        {
+            "id": 8087117135,
+            "name": "Allison Torff",
+            "username": "Allison",
+            "volumn": "12.4 ETH",
+            "sold": "602",
+            "avatar": "https://cdn.animaapp.com/projects/63aaf7e2426e9824f0350c11/releases/63aaf8f2426e9824f0350c13/img/avatar-placeholder-129@2x.png"
+        },
+        {
+            "id": 3136446635,
+            "name": "Davis Workman",
+            "username": "Davis",
+            "volumn": "12.4 ETH",
+            "sold": "602",
+            "avatar": "https://cdn.animaapp.com/projects/63aaf7e2426e9824f0350c11/releases/63aaf8f2426e9824f0350c13/img/avatar-placeholder-130@2x.png"
+        },
+        {
+            "id": 7389114858,
+            "name": "Lindsey Lipshutz",
+            "username": "Lindsey",
+            "volumn": "12.4 ETH",
+            "sold": "602",
+            "avatar": "https://cdn.animaapp.com/projects/63aaf7e2426e9824f0350c11/releases/63aaf8f2426e9824f0350c13/img/avatar-placeholder-131@2x.png"
+        },
+        {
+            "id": 2474457543,
+            "name": "Randy Carder",
+            "username": "Randy",
+            "volumn": "12.4 ETH",
+            "sold": "602",
+            "avatar": "https://cdn.animaapp.com/projects/63aaf7e2426e9824f0350c11/releases/63aaf8f2426e9824f0350c13/img/avatar-placeholder-132@2x.png"
+        },
+        {
+            "id": 3821059167,
+            "name": "Lydia Culhane",
+            "username": "Lydia",
+            "volumn": "12.4 ETH",
+            "sold": "602",
+            "avatar": "https://cdn.animaapp.com/projects/63aaf7e2426e9824f0350c11/releases/63aaf8f2426e9824f0350c13/img/avatar-placeholder-133@2x.png"
+        },
+        {
+            "id": 2923990708,
+            "name": "Rayna Bator",
+            "username": "Rayna",
+            "volumn": "12.4 ETH",
+            "sold": "602",
+            "avatar": "https://cdn.animaapp.com/projects/63aaf7e2426e9824f0350c11/releases/63aaf8f2426e9824f0350c13/img/avatar-placeholder-134@2x.png"
+        },
+        {
+            "id": 91216748,
+            "name": "Jocelyn Westervelt",
+            "username": "Jocelyn",
+            "volumn": "12.4 ETH",
+            "sold": "602",
+            "avatar": "https://cdn.animaapp.com/projects/63aaf7e2426e9824f0350c11/releases/63aaf8f2426e9824f0350c13/img/avatar-placeholder-135@2x.png"
+        },
+        {
+            "id": 6261651309,
+            "name": "Marilyn Torff",
+            "username": "Marilyn",
+            "volumn": "12.4 ETH",
+            "sold": "602",
+            "avatar": "https://cdn.animaapp.com/projects/63aaf7e2426e9824f0350c11/releases/63aaf8f2426e9824f0350c13/img/avatar-placeholder-5@2x.png"
+        },
+        {
+            "id": 823009815,
+            "name": "Skylar Levin",
+            "username": "Skylar",
+            "volumn": "12.4 ETH",
+            "sold": "602",
+            "avatar": "https://cdn.animaapp.com/projects/63aaf7e2426e9824f0350c11/releases/63aaf8f2426e9824f0350c13/img/avatar-placeholder-128@2x.png"
+        },
+        {
+            "id": 8894085526,
+            "name": "Terry Dorwart",
+            "username": "Terry",
+            "volumn": "12.4 ETH",
+            "sold": "602",
+            "avatar": "https://cdn.animaapp.com/projects/63aaf7e2426e9824f0350c11/releases/63aaf8f2426e9824f0350c13/img/avatar-placeholder-7@2x.png"
+        }
+    ],
+}
